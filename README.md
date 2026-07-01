@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Nilmoni04/dsa/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Nilmoni04/dsa/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Nilmoni04/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Nilmoni04/dsa/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Nilmoni04/dsa/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Nilmoni04/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Nilmoni04/dsa/tree/master/0047-permutations-ii) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
