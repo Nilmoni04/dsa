@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Nilmoni04/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nilmoni04/dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nilmoni04/dsa/tree/master/0051-n-queens) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Nilmoni04/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Nilmoni04/dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nilmoni04/dsa/tree/master/0051-n-queens) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nilmoni04/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Search
