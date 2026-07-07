@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Nilmoni04/dsa/tree/master/0029-divide-two-integers) |
+| [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilmoni04/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nilmoni04/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nilmoni04/dsa/tree/master/3783-mirror-distance-of-an-integer) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
+| [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
@@ -144,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
