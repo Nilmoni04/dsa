@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilmoni04/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilmoni04/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Nilmoni04/dsa/tree/master/0047-permutations-ii) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
