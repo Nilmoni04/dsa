@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/Nilmoni04/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilmoni04/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0216-combination-sum-iii](https://github.com/Nilmoni04/dsa/tree/master/0216-combination-sum-iii) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/Nilmoni04/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/Nilmoni04/dsa/tree/master/0216-combination-sum-iii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
 |  |
