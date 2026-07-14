@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nilmoni04/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nilmoni04/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Nilmoni04/dsa/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nilmoni04/dsa/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nilmoni04/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nilmoni04/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Nilmoni04/dsa/tree/master/3862-find-the-smallest-balanced-index) |
 ## Greedy
 |  |
 | ------- |
