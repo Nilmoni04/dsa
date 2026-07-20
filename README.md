@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
+| [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilmoni04/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
+| [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilmoni04/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
