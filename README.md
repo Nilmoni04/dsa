@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nilmoni04/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nilmoni04/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nilmoni04/dsa/tree/master/0040-combination-sum-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nilmoni04/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nilmoni04/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nilmoni04/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nilmoni04/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilmoni04/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
