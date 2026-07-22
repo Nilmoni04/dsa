@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilmoni04/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilmoni04/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
@@ -221,4 +222,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilmoni04/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
