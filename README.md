@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nilmoni04/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/Nilmoni04/dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nilmoni04/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nilmoni04/dsa/tree/master/0040-combination-sum-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nilmoni04/dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Nilmoni04/dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
 | [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
