@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nilmoni04/dsa/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Nilmoni04/dsa/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Nilmoni04/dsa/tree/master/0029-divide-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilmoni04/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0878-nth-magical-number](https://github.com/Nilmoni04/dsa/tree/master/0878-nth-magical-number) |
