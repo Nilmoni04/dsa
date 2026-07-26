@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/Nilmoni04/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nilmoni04/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nilmoni04/dsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nilmoni04/dsa/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Nilmoni04/dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nilmoni04/dsa/tree/master/0039-combination-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nilmoni04/dsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nilmoni04/dsa/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Nilmoni04/dsa/tree/master/0047-permutations-ii) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilmoni04/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nilmoni04/dsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nilmoni04/dsa/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nilmoni04/dsa/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nilmoni04/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0876-middle-of-the-linked-list) |
