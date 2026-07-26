@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Nilmoni04/dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nilmoni04/dsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Nilmoni04/dsa/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Nilmoni04/dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nilmoni04/dsa/tree/master/0039-combination-sum) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nilmoni04/dsa/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilmoni04/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nilmoni04/dsa/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nilmoni04/dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0876-middle-of-the-linked-list) |
