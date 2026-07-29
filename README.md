@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilmoni04/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nilmoni04/dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilmoni04/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilmoni04/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilmoni04/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilmoni04/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nilmoni04/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilmoni04/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
