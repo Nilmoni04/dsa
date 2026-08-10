@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilmoni04/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0878-nth-magical-number](https://github.com/Nilmoni04/dsa/tree/master/0878-nth-magical-number) |
 | [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilmoni04/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nilmoni04/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilmoni04/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
+| [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nilmoni04/dsa/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nilmoni04/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nilmoni04/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
 | [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -331,5 +337,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
