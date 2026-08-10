@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilmoni04/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0878-nth-magical-number](https://github.com/Nilmoni04/dsa/tree/master/0878-nth-magical-number) |
 | [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilmoni04/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nilmoni04/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilmoni04/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
 | [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
+| [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nilmoni04/dsa/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3193-count-the-number-of-inversions](https://github.com/Nilmoni04/dsa/tree/master/3193-count-the-number-of-inversions) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
+| [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -313,4 +316,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilmoni04/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
