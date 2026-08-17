@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0029-divide-two-integers](https://github.com/Nilmoni04/dsa/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Nilmoni04/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilmoni04/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilmoni04/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/Nilmoni04/dsa/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Nilmoni04/dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilmoni04/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nilmoni04/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilmoni04/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0878-nth-magical-number](https://github.com/Nilmoni04/dsa/tree/master/0878-nth-magical-number) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/Nilmoni04/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nilmoni04/dsa/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilmoni04/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilmoni04/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -349,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
