@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Nilmoni04/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nilmoni04/dsa/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Nilmoni04/dsa/tree/master/0146-lru-cache) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Nilmoni04/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nilmoni04/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nilmoni04/dsa/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Nilmoni04/dsa/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0237-delete-node-in-a-linked-list) |
@@ -384,11 +386,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nilmoni04/dsa/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Nilmoni04/dsa/tree/master/0303-range-sum-query-immutable) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nilmoni04/dsa/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
