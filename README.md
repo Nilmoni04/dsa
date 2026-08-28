@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Nilmoni04/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/Nilmoni04/dsa/tree/master/0901-online-stock-span) |
 | [1006-clumsy-factorial](https://github.com/Nilmoni04/dsa/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilmoni04/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Nilmoni04/dsa/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilmoni04/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nilmoni04/dsa/tree/master/2487-remove-nodes-from-linked-list) |
 ## Linked List
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/Nilmoni04/dsa/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/Nilmoni04/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Nilmoni04/dsa/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Nilmoni04/dsa/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
 ## Bitmask
 |  |
