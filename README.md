@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/Nilmoni04/dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Nilmoni04/dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nilmoni04/dsa/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilmoni04/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilmoni04/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/Nilmoni04/dsa/tree/master/0216-combination-sum-iii) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilmoni04/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Nilmoni04/dsa/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nilmoni04/dsa/tree/master/0496-next-greater-element-i) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilmoni04/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nilmoni04/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nilmoni04/dsa/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Nilmoni04/dsa/tree/master/0901-online-stock-span) |
@@ -442,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilmoni04/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nilmoni04/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
