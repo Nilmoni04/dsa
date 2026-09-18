@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/Nilmoni04/dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
+| [0491-non-decreasing-subsequences](https://github.com/Nilmoni04/dsa/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [1799-maximize-score-after-n-operations](https://github.com/Nilmoni04/dsa/tree/master/1799-maximize-score-after-n-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Nilmoni04/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Nilmoni04/dsa/tree/master/0303-range-sum-query-immutable) |
+| [0491-non-decreasing-subsequences](https://github.com/Nilmoni04/dsa/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Nilmoni04/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nilmoni04/dsa/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Nilmoni04/dsa/tree/master/0216-combination-sum-iii) |
 | [0306-additive-number](https://github.com/Nilmoni04/dsa/tree/master/0306-additive-number) |
+| [0491-non-decreasing-subsequences](https://github.com/Nilmoni04/dsa/tree/master/0491-non-decreasing-subsequences) |
 | [1799-maximize-score-after-n-operations](https://github.com/Nilmoni04/dsa/tree/master/1799-maximize-score-after-n-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Hash Table
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Nilmoni04/dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nilmoni04/dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Nilmoni04/dsa/tree/master/0146-lru-cache) |
+| [0491-non-decreasing-subsequences](https://github.com/Nilmoni04/dsa/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Nilmoni04/dsa/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
