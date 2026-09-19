@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
 | [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Nilmoni04/dsa/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Nilmoni04/dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilmoni04/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nilmoni04/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Nilmoni04/dsa/tree/master/1200-minimum-absolute-difference) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Nilmoni04/dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilmoni04/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Nilmoni04/dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
 | [1025-divisor-game](https://github.com/Nilmoni04/dsa/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Nilmoni04/dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Nilmoni04/dsa/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Nilmoni04/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0878-nth-magical-number](https://github.com/Nilmoni04/dsa/tree/master/0878-nth-magical-number) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Nilmoni04/dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
