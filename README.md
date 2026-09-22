@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilmoni04/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Nilmoni04/dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nilmoni04/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nilmoni04/dsa/tree/master/1710-maximum-units-on-a-truck) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0901-online-stock-span](https://github.com/Nilmoni04/dsa/tree/master/0901-online-stock-span) |
 | [1006-clumsy-factorial](https://github.com/Nilmoni04/dsa/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilmoni04/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nilmoni04/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Nilmoni04/dsa/tree/master/2000-reverse-prefix-of-word) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Nilmoni04/dsa/tree/master/0735-asteroid-collision) |
 | [1006-clumsy-factorial](https://github.com/Nilmoni04/dsa/tree/master/1006-clumsy-factorial) |
 | [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nilmoni04/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nilmoni04/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nilmoni04/dsa/tree/master/3612-process-string-with-special-operations-i) |
