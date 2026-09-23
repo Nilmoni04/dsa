@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Nilmoni04/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nilmoni04/dsa/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/Nilmoni04/dsa/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilmoni04/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/Nilmoni04/dsa/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Nilmoni04/dsa/tree/master/0283-move-zeroes) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nilmoni04/dsa/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Nilmoni04/dsa/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Nilmoni04/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nilmoni04/dsa/tree/master/0646-maximum-length-of-pair-chain) |
