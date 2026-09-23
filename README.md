@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2735-collecting-chocolates](https://github.com/Nilmoni04/dsa/tree/master/2735-collecting-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilmoni04/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nilmoni04/dsa/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nilmoni04/dsa/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nilmoni04/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nilmoni04/dsa/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Nilmoni04/dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nilmoni04/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nilmoni04/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilmoni04/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nilmoni04/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nilmoni04/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilmoni04/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nilmoni04/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilmoni04/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Nilmoni04/dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
@@ -398,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Nilmoni04/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilmoni04/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nilmoni04/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Nilmoni04/dsa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilmoni04/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
