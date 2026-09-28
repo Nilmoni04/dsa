@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Nilmoni04/dsa/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
 | [0860-lemonade-change](https://github.com/Nilmoni04/dsa/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Nilmoni04/dsa/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Nilmoni04/dsa/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nilmoni04/dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
+| [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
