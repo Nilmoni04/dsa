@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0419-battleships-in-a-board](https://github.com/Nilmoni04/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilmoni04/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Range Minimum/Maximum Query
