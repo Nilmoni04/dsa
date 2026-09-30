@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0491-non-decreasing-subsequences](https://github.com/Nilmoni04/dsa/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Nilmoni04/dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nilmoni04/dsa/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/Nilmoni04/dsa/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nilmoni04/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Nilmoni04/dsa/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Nilmoni04/dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0542-01-matrix](https://github.com/Nilmoni04/dsa/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nilmoni04/dsa/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Nilmoni04/dsa/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Nilmoni04/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Nilmoni04/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/Nilmoni04/dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
