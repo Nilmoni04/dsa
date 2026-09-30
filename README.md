@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nilmoni04/dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [1765-map-of-highest-peak](https://github.com/Nilmoni04/dsa/tree/master/1765-map-of-highest-peak) |
 | [1799-maximize-score-after-n-operations](https://github.com/Nilmoni04/dsa/tree/master/1799-maximize-score-after-n-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nilmoni04/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilmoni04/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
+| [1765-map-of-highest-peak](https://github.com/Nilmoni04/dsa/tree/master/1765-map-of-highest-peak) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilmoni04/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/Nilmoni04/dsa/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
