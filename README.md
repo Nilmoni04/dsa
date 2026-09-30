@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilmoni04/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilmoni04/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-stone-game-iv](https://github.com/Nilmoni04/dsa/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1799-maximize-score-after-n-operations](https://github.com/Nilmoni04/dsa/tree/master/1799-maximize-score-after-n-operations) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilmoni04/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nilmoni04/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Nilmoni04/dsa/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3193-count-the-number-of-inversions](https://github.com/Nilmoni04/dsa/tree/master/3193-count-the-number-of-inversions) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilmoni04/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Search
 |  |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nilmoni04/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilmoni04/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilmoni04/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Queue
 |  |
 | ------- |
