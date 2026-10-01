@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/Nilmoni04/dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nilmoni04/dsa/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/Nilmoni04/dsa/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Nilmoni04/dsa/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nilmoni04/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Nilmoni04/dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Nilmoni04/dsa/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Nilmoni04/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Nilmoni04/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nilmoni04/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Nilmoni04/dsa/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nilmoni04/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Nilmoni04/dsa/tree/master/0542-01-matrix) |
@@ -569,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Nilmoni04/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
