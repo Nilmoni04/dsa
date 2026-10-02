@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Nilmoni04/dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Nilmoni04/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nilmoni04/dsa/tree/master/0040-combination-sum-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0006-zigzag-conversion](https://github.com/Nilmoni04/dsa/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Nilmoni04/dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
 | [0306-additive-number](https://github.com/Nilmoni04/dsa/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Nilmoni04/dsa/tree/master/0316-remove-duplicate-letters) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Nilmoni04/dsa/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Nilmoni04/dsa/tree/master/0300-longest-increasing-subsequence) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nilmoni04/dsa/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nilmoni04/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilmoni04/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
