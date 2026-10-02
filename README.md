@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Nilmoni04/dsa/tree/master/0735-asteroid-collision) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
+| [0766-toeplitz-matrix](https://github.com/Nilmoni04/dsa/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/Nilmoni04/dsa/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nilmoni04/dsa/tree/master/1020-number-of-enclaves) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Nilmoni04/dsa/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Nilmoni04/dsa/tree/master/0741-cherry-pickup) |
+| [0766-toeplitz-matrix](https://github.com/Nilmoni04/dsa/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nilmoni04/dsa/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Nilmoni04/dsa/tree/master/1260-shift-2d-grid) |
