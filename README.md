@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Nilmoni04/dsa/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Nilmoni04/dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Nilmoni04/dsa/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Nilmoni04/dsa/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Nilmoni04/dsa/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Nilmoni04/dsa/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Nilmoni04/dsa/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Nilmoni04/dsa/tree/master/1765-map-of-highest-peak) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Nilmoni04/dsa/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/Nilmoni04/dsa/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Nilmoni04/dsa/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Nilmoni04/dsa/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilmoni04/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -611,4 +615,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Nilmoni04/dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nilmoni04/dsa/tree/master/0232-implement-queue-using-stacks) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nilmoni04/dsa/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nilmoni04/dsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
