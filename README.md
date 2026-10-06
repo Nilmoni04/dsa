@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Nilmoni04/dsa/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilmoni04/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1370-increasing-decreasing-string](https://github.com/Nilmoni04/dsa/tree/master/1370-increasing-decreasing-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nilmoni04/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nilmoni04/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Nilmoni04/dsa/tree/master/0621-task-scheduler) |
+| [1370-increasing-decreasing-string](https://github.com/Nilmoni04/dsa/tree/master/1370-increasing-decreasing-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nilmoni04/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nilmoni04/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nilmoni04/dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Nilmoni04/dsa/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1370-increasing-decreasing-string](https://github.com/Nilmoni04/dsa/tree/master/1370-increasing-decreasing-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nilmoni04/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nilmoni04/dsa/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nilmoni04/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
