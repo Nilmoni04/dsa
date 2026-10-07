@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Nilmoni04/dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Nilmoni04/dsa/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Nilmoni04/dsa/tree/master/0306-additive-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Nilmoni04/dsa/tree/master/0491-non-decreasing-subsequences) |
 | [1799-maximize-score-after-n-operations](https://github.com/Nilmoni04/dsa/tree/master/1799-maximize-score-after-n-operations) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Nilmoni04/dsa/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/Nilmoni04/dsa/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Nilmoni04/dsa/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Nilmoni04/dsa/tree/master/0344-reverse-string) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nilmoni04/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nilmoni04/dsa/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Nilmoni04/dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Nilmoni04/dsa/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Nilmoni04/dsa/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Nilmoni04/dsa/tree/master/0547-number-of-provinces) |
