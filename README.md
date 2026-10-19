@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nilmoni04/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nilmoni04/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nilmoni04/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilmoni04/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Nilmoni04/dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nilmoni04/dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nilmoni04/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilmoni04/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nilmoni04/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0878-nth-magical-number](https://github.com/Nilmoni04/dsa/tree/master/0878-nth-magical-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nilmoni04/dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nilmoni04/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
