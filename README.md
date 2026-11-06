@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1301-number-of-paths-with-max-score](https://github.com/Nilmoni04/dsa/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilmoni04/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Nilmoni04/dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nilmoni04/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nilmoni04/dsa/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Nilmoni04/dsa/tree/master/1472-design-browser-history) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nilmoni04/dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/Nilmoni04/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Nilmoni04/dsa/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nilmoni04/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nilmoni04/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Nilmoni04/dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nilmoni04/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nilmoni04/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0878-nth-magical-number](https://github.com/Nilmoni04/dsa/tree/master/0878-nth-magical-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Nilmoni04/dsa/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nilmoni04/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nilmoni04/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3620-network-recovery-pathways](https://github.com/Nilmoni04/dsa/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Nilmoni04/dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nilmoni04/dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Nilmoni04/dsa/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Nilmoni04/dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/Nilmoni04/dsa/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nilmoni04/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
