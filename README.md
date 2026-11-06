@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2735-collecting-chocolates](https://github.com/Nilmoni04/dsa/tree/master/2735-collecting-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/Nilmoni04/dsa/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilmoni04/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nilmoni04/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3193-count-the-number-of-inversions](https://github.com/Nilmoni04/dsa/tree/master/3193-count-the-number-of-inversions) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Nilmoni04/dsa/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nilmoni04/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Nilmoni04/dsa/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2747-count-zero-request-servers](https://github.com/Nilmoni04/dsa/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nilmoni04/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nilmoni04/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nilmoni04/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nilmoni04/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2747-count-zero-request-servers](https://github.com/Nilmoni04/dsa/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Nilmoni04/dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nilmoni04/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nilmoni04/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nilmoni04/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2747-count-zero-request-servers](https://github.com/Nilmoni04/dsa/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nilmoni04/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting Sort
 |  |
