@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1799-maximize-score-after-n-operations](https://github.com/Nilmoni04/dsa/tree/master/1799-maximize-score-after-n-operations) |
 | [2413-smallest-even-multiple](https://github.com/Nilmoni04/dsa/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Nilmoni04/dsa/tree/master/2469-convert-the-temperature) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Nilmoni04/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilmoni04/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nilmoni04/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilmoni04/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nilmoni04/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Nilmoni04/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [2596-check-knight-tour-configuration](https://github.com/Nilmoni04/dsa/tree/master/2596-check-knight-tour-configuration) |
 | [2735-collecting-chocolates](https://github.com/Nilmoni04/dsa/tree/master/2735-collecting-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/Nilmoni04/dsa/tree/master/2747-count-zero-request-servers) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Nilmoni04/dsa/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Nilmoni04/dsa/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nilmoni04/dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Nilmoni04/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilmoni04/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nilmoni04/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
