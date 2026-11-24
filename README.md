@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2541-minimum-operations-to-make-array-equal-ii](https://github.com/Nilmoni04/dsa/tree/master/2541-minimum-operations-to-make-array-equal-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nilmoni04/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nilmoni04/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nilmoni04/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilmoni04/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nilmoni04/dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nilmoni04/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nilmoni04/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3193-count-the-number-of-inversions](https://github.com/Nilmoni04/dsa/tree/master/3193-count-the-number-of-inversions) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nilmoni04/dsa/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nilmoni04/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nilmoni04/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilmoni04/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nilmoni04/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Nilmoni04/dsa/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2735-collecting-chocolates](https://github.com/Nilmoni04/dsa/tree/master/2735-collecting-chocolates) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nilmoni04/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nilmoni04/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nilmoni04/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Nilmoni04/dsa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Nilmoni04/dsa/tree/master/3880-minimum-absolute-difference-between-two-values) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1799-maximize-score-after-n-operations](https://github.com/Nilmoni04/dsa/tree/master/1799-maximize-score-after-n-operations) |
 | [2413-smallest-even-multiple](https://github.com/Nilmoni04/dsa/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nilmoni04/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nilmoni04/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nilmoni04/dsa/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2747-count-zero-request-servers](https://github.com/Nilmoni04/dsa/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nilmoni04/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nilmoni04/dsa/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nilmoni04/dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |
 | ------- |
